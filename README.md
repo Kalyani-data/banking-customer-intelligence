@@ -21,19 +21,19 @@ Currently, customer, account, loan, and complaint data is siloed. The goal is to
 4. **Power BI Dashboards** – Build 4 dashboards:
 
 ### Dashboard 1: Customer Demographics & Segmentation  
-![Dashboard 1](images/dashboard1.png)  
+![Dashboard 1](images/Dashboard1.PNG)  
 *Visualizes customer distribution by age, gender, region, and product adoption to identify growth opportunities and high-value segments.*
 
 ### Dashboard 2: Account & Transaction Behaviors  
-![Dashboard 2](images/dashboard2.png)  
+![Dashboard 2](images/Dashboard2.PNG)  
 *Shows account activity, dormancy patterns, transaction volumes, and regional financial trends for operational insights.*
 
 ### Dashboard 3: Loan Performance & Financial Risk  
-![Dashboard 3](images/dashboard3.png)  
+![Dashboard 3](images/Dashboard3.PNG)  
 *Highlights loan portfolio performance, default rates, high-risk loans, and repayment behaviors for risk assessment.*
 
 ### Dashboard 4: CRM & Customer Satisfaction  
-![Dashboard 4](images/dashboard4.png)  
+![Dashboard 4](images/Dashboard4.PNG)  
 *Displays complaints, call center activity, and customer reviews to monitor service quality and resolution effectiveness.*
 
 ## 📊 Key Insights
