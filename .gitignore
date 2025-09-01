@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary/system files
+*.tmp
+*.log
+~$*.docx
+
+# IDE/project files
+.vscode/
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Git LFS pointer backup (optional)
+*.pbix.bak
